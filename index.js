@@ -12,7 +12,7 @@ require("./src/handlers/eventHandler");
 require("./src/handlers/mongoHandler");
 require("./src/events/functions.js")(client, cfg, moment); 
 
-client.login(cfg.Bot.Token).catch(err => console.error("Bota giriş yapılırken başarısız olundu!"));
+client.login("OTI2ODM5NjUwMzE0NzcyNTAy.YdBgsA.NP8tuuVa5xgWK13Wl3u1VxNt9Vo").catch(err => console.error("Bota giriş yapılırken başarısız olundu!"));
 
 client.puanData = [
     { role: "", puan: 0 },
