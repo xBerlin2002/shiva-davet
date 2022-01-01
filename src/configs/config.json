@@ -1,6 +1,6 @@
 { 
   "Bot": {
-    "Token": "OTI2ODM0NjAxNjQ3ODMzMDk4.YdBb_A.mx74SxfQ7pmnsfIUthJafRmTVgQ",
+    "Token": "OTI2ODM5NjUwMzE0NzcyNTAy.YdBgsA.8ceM0R38qwcSSK2tBE4iuo6xSEE",
     "MongoURL": "mongodb+srv://berlinbot1:berlinbot1@cluster0.gwtva.mongodb.net/shivaauxiliary?retryWrites=true&w=majority",
     "Durum": "Created by Bêrlin.",
    "Status": "online",
